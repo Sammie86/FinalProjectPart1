@@ -1,4 +1,3 @@
-from typing import List
 
 print('Iyai S Bassey 1937369') #This is my name and PSID
 import csv
